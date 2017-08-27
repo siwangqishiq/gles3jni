@@ -1,0 +1,7 @@
+#Sun Aug 27 12:05:09 GMT+08:00 2017
+base.0=D\:\\dev\\android-ndk\\gles3jni\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e9097a067405872455deb0d59d7a318804e92f46
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\dev\\android-ndk\\gles3jni\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_82650af49c4f6cc83c61679a3924252b4a83f247\\classes.dex
+base.1=D\:\\dev\\android-ndk\\gles3jni\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_82650af49c4f6cc83c61679a3924252b4a83f247
+file.0=D\:\\dev\\android-ndk\\gles3jni\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e9097a067405872455deb0d59d7a318804e92f46\\classes.dex

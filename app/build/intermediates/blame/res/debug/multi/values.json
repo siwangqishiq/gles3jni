@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\dev\\android-ndk\\gles3jni\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "D:\\dev\\android-ndk\\gles3jni\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 54,
+                        "endOffset": 922
+                    }
+                }
+            }
+        ]
+    }
+]

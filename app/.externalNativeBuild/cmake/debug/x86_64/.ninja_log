@@ -1,0 +1,6 @@
+# ninja log v5
+6	156	0	CMakeFiles/gles3jni.dir/RendererES2.cpp.o	c2ba6ecf26e8c931
+19	158	0	CMakeFiles/gles3jni.dir/gl3stub_wrapper.c.o	9e14fa1b2aa90db9
+12	169	0	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	2de44b205f9f5002
+1	251	0	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	e7afda989131c6a2
+252	396	0	D:/dev/android-ndk/gles3jni/app/build/intermediates/cmake/debug/obj/x86_64/libgles3jni.so	8928eaab4d6ca362

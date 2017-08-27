@@ -1,0 +1,57 @@
+
+{
+	"buildFiles" : [ "D:/dev/android-ndk/gles3jni/app/src/main/cpp/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"D:\\as\\sdk_location\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\dev\\android-ndk\\gles3jni\\app\\.externalNativeBuild\\cmake\\release\\armeabi --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"gles3jni-Release-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "gles3jni",
+			"buildCommand" : "D:\\as\\sdk_location\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\dev\\android-ndk\\gles3jni\\app\\.externalNativeBuild\\cmake\\release\\armeabi --target gles3jni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/as/sdk_location/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/as/sdk_location/ndk-bundle/sysroot -Dgles3jni_EXPORTS  -isystem D:/as/sdk_location/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Wall -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/dev/android-ndk/gles3jni/app/src/main/cpp/gl3stub_wrapper.c",
+					"workingDirectory" : "D:/dev/android-ndk/gles3jni/app/.externalNativeBuild/cmake/release/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/as/sdk_location/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/as/sdk_location/ndk-bundle/sysroot  -Dgles3jni_EXPORTS -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/as/sdk_location/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=c++11 -fno-rtti -fno-exceptions -Wall -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/dev/android-ndk/gles3jni/app/src/main/cpp/gles3jni.cpp",
+					"workingDirectory" : "D:/dev/android-ndk/gles3jni/app/.externalNativeBuild/cmake/release/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/as/sdk_location/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/as/sdk_location/ndk-bundle/sysroot  -Dgles3jni_EXPORTS -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/as/sdk_location/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=c++11 -fno-rtti -fno-exceptions -Wall -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/dev/android-ndk/gles3jni/app/src/main/cpp/RendererES2.cpp",
+					"workingDirectory" : "D:/dev/android-ndk/gles3jni/app/.externalNativeBuild/cmake/release/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/as/sdk_location/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/as/sdk_location/ndk-bundle/sysroot  -Dgles3jni_EXPORTS -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem D:\\as\\sdk_location\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/as/sdk_location/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=c++11 -fno-rtti -fno-exceptions -Wall -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/dev/android-ndk/gles3jni/app/src/main/cpp/RendererES3.cpp",
+					"workingDirectory" : "D:/dev/android-ndk/gles3jni/app/.externalNativeBuild/cmake/release/armeabi"
+				}
+			],
+			"output" : "D:/dev/android-ndk/gles3jni/app/build/intermediates/cmake/release/obj/armeabi/libgles3jni.so",
+			"toolchain" : "1942772781"
+		}
+	},
+	"toolchains" : 
+	{
+		"1942772781" : 
+		{
+			"cCompilerExecutable" : "D:/as/sdk_location/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/as/sdk_location/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

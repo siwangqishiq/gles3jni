@@ -1,0 +1,17 @@
+Executable : D:\as\sdk_location\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\dev\android-ndk\gles3jni\app\src\main\cpp
+-BD:\dev\android-ndk\gles3jni\app\.externalNativeBuild\cmake\release\armeabi
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=armeabi
+-DANDROID_NDK=D:\as\sdk_location\ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\dev\android-ndk\gles3jni\app\build\intermediates\cmake\release\obj\armeabi
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=D:\as\sdk_location\cmake\3.6.4111459\bin\ninja.exe
+-DCMAKE_TOOLCHAIN_FILE=D:\as\sdk_location\ndk-bundle\build\cmake\android.toolchain.cmake
+-DANDROID_PLATFORM=android-18
+-DANDROID_PLATFORM_LEVEL=18
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=gnustl_static
+jvmArgs : 
+
